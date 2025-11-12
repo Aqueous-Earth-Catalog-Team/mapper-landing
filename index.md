@@ -1,7 +1,7 @@
 ---
 title: About Alembic
 feature_text: |
-  ## Alembic
+  ## Media Mapper
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: "[https://upload.wikimedia.org/wikipedia/commons/c/ca/The_Blue_Marble_4463x4163.jpg]"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
